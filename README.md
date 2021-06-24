@@ -9,7 +9,6 @@
     - [West 6th](#west-6th)
     - [South Congress](#south-congress)
       - [Rock Rose (The Domain)](#rock-rose-the-domain)
-        - [Notable bars](#notable-bars)
   - [Day Activities](#day-activities)
   - [Tourist Attractions](#tourist-attractions)
   - [Food](#food)
@@ -105,8 +104,6 @@ A mix of restaurants and a few cool bars with an older vibe
 #### Rock Rose (The Domain)
 
 Expensive bars, super crowded, and tries to be “upscale” Think Old Town Scottsdale. There are a couple of decent bars. Best part is Velvet Taco open until 4AM
-
-##### Notable bars
 
 - [Rose Room](https://goo.gl/maps/WaEFC62n3aZ1S7WL8)
   - Budget Vegas club
