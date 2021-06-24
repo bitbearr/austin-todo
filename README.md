@@ -4,13 +4,15 @@
   - [Bar Scenes](#bar-scenes)
     - [Breweries](#breweries)
     - [Rainy](#rainy)
-    - [East 6th](#east-6th)
       - [Notable bars](#notable-bars)
+    - [East 6th](#east-6th)
+      - [Notable bars](#notable-bars-1)
     - [Dirty 6th](#dirty-6th)
+      - [Notable bars](#notable-bars-2)
     - [West 6th](#west-6th)
     - [South Congress](#south-congress)
       - [Rock Rose (The Domain)](#rock-rose-the-domain)
-        - [Notable bars](#notable-bars-1)
+        - [Notable bars](#notable-bars-3)
   - [Day Activities](#day-activities)
   - [Tourist Attractions](#tourist-attractions)
   - [Food](#food)
@@ -21,19 +23,25 @@
 
 ### Breweries
 
-- Redline Tour is a fun route on our metro where you get off at each stop and go to different breweries. Then end up in east sixth or the domain
+Redline Tour is a fun route on our metro where you get off at each stop and go to different breweries. Then end up in east sixth or the domain
+
 - Austin Beerworks
 - Cellis Brewery
 - Austin Eastciders
+- Zilker
+- Brewtorium
+- Circle
   
 ### Rainy
 
-- The bars are mostly made up of refitted houses. Lots of open spaces, patio seating, and cool themes.
-- Notable bars:
-  - Unbarlievable (circus theme)
-  - Container bar (made of shipping containers)
-  - Bangers
-    - Whole bottle mimosas in a large cup
+The bars are mostly made up of refitted houses. Lots of open spaces, patio seating, and cool themes.
+
+#### Notable bars
+
+- Unbarlievable (circus theme)
+- Container bar (made of shipping containers)
+- Bangers
+  - Whole bottle mimosas in a large cup
 
 ### East 6th
 
@@ -51,16 +59,17 @@ Hipster older bars. Kinda of dive-bars
 
 Where all the college students party. Entire street is closed off, the street is crowded with people/entertainers and almost every building is a bar for a couple blocks. Just off of 6th there are some really great bars.
 
-- Notable bars:
-  - Barbarellas
-    - 80s clubs, sometimes live music in back
-  - Cheer Up Charlies (outdoor gay bar, great drinks!)
-  - Elephant room (Live jazz in a basement)
-  - Summit (rooftop EDM bar)
-  - Firehouse lounge (speakeasy behind a bookcase)
-  - Parking garage bar (cocktails in a parking garage)
-  - Friend's bar (live music)
-  - Shakespeare's (yuge)
+#### Notable bars
+
+- Barbarellas
+  - 80s clubs, sometimes live music in back
+- Cheer Up Charlies (outdoor gay bar, great drinks!)
+- Elephant room (Live jazz in a basement)
+- Summit (rooftop EDM bar)
+- Firehouse lounge (speakeasy behind a bookcase)
+- Parking garage bar (cocktails in a parking garage)
+- Friend's bar (live music)
+- Shakespeare's (yuge)
 
 ### West 6th
 
