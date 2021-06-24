@@ -8,7 +8,7 @@
     - [Dirty 6th](#dirty-6th)
     - [West 6th](#west-6th)
     - [South Congress](#south-congress)
-      - [Rock Rose (The Domain)](#rock-rose-the-domain)
+    - [Rock Rose (The Domain)](#rock-rose-the-domain)
   - [Day Activities](#day-activities)
   - [Tourist Attractions](#tourist-attractions)
   - [Food](#food)
@@ -101,7 +101,7 @@ A mix of restaurants and a few cool bars with an older vibe
   - [Cidercade](https://g.page/Cidercade-Austin?share)
     - a decent walk away but worth it
 
-#### Rock Rose (The Domain)
+### Rock Rose (The Domain)
 
 Expensive bars, super crowded, and tries to be “upscale” Think Old Town Scottsdale. There are a couple of decent bars. Best part is Velvet Taco open until 4AM
 
