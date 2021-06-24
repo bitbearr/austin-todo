@@ -81,24 +81,23 @@ Where all the college students party. Entire street is closed off, the street is
 
 Newer trendy bars
 
-- Notable bars:
-  - [Green Light Social](https://goo.gl/maps/2fTpEkA2uEM2kgPV8)
+- [Green Light Social](https://goo.gl/maps/2fTpEkA2uEM2kgPV8)
   - alcoholic capri sun
-  - [Irenes](https://goo.gl/maps/omaLwzuVKN1VZfgy7) 
-    - painkiller level 3 is yummy
+- [Irenes](https://goo.gl/maps/omaLwzuVKN1VZfgy7) 
+  - painkiller level 3 is yummy
 
 ### South Congress
 
 A mix of restaurants and a few cool bars with an older vibe
 
-- Notable bars:
-  - [Continental Club](https://goo.gl/maps/pj9Gy6vnNyjcHgRA9)
-    - Live music with a pool table in the back
-  - [Continental Gallery](https://goo.gl/maps/jattShazzXmYZYtR9)
-    - Live music with ping pong table upstairs
-  - [Ego's](https://goo.gl/maps/TNk4yjnXwonaRefM9)
-    - karaoke bar
-  - [Cidercade](https://g.page/Cidercade-Austin?share)
+
+- [Continental Club](https://goo.gl/maps/pj9Gy6vnNyjcHgRA9)
+  - Live music with a pool table in the back
+- [Continental Gallery](https://goo.gl/maps/jattShazzXmYZYtR9)
+  - Live music with ping pong table upstairs
+- [Ego's](https://goo.gl/maps/TNk4yjnXwonaRefM9)
+  - karaoke bar
+- [Cidercade](https://g.page/Cidercade-Austin?share)
     - a decent walk away but worth it
 
 ### Rock Rose (The Domain)
