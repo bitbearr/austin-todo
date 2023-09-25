@@ -167,7 +167,7 @@ Expensive bars, super crowded, and tries to be “upscale” Think Old Town Scot
 - [P Terrys](https://g.page/pterrys-capital-plaza?share) ($)
   - Texas In N Out competitor
 - [Buddy's Burger](https://g.page/Buddys-Burger-Austin?share) ($)
-  - Local In N Out competitor
+  - Amazing affordable spicy chicken burgers
 - [Clay Pit](https://g.page/claypitaustin?share) ($$)
   - Favorite Indian food
 - [Hopdoddys](https://goo.gl/maps/RFQ9CjCdH6orqZ887) ($$)
